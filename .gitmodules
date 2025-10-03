@@ -1,0 +1,3 @@
+[submodule "openzeppelin-confidential-contracts"]
+	path = openzeppelin-confidential-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-confidential-contracts.git
